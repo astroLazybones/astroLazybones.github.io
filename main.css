@@ -1,0 +1,42 @@
+body {
+	background-image: url('images/stars.jpg');
+	font-family: 'Courier New', monospace;
+	color: #FFFFFF;
+}
+#somebox {
+	border-style: solid;
+	background-color: #292c3c;
+	width: 1600px;
+	height: 2000px;
+	border: 9px solid rgb(202, 158, 230);
+	padding: 10px;
+	margin: 10px;
+	text-align:left;
+}
+#topbox {
+	border-style: solid;
+	background-color: #292c3c;
+	width: 1600px;
+	height: 20px;
+	border: 9px solid rgb(202, 158, 230);
+	padding: 10px;
+	margin: 10px;
+	text-align:left;
+	margin-left: auto;
+	margin-right: auto;
+}
+#xtrabox {
+	background-color: #303446;
+	width: 300px;
+	height: 20px;
+	border: 0px;
+	padding: 10px;
+	margin: 10px;
+	text-align:left;
+}
+#OSstuff {
+	font-size: 30px;
+}
+#listthing {
+	font-size: 20px;
+}
