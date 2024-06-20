@@ -7,7 +7,7 @@ body {
 #somebox {
 	border-style: solid;
 	background-color: #292c3c;
-	width: 1600px;
+	width: 95%;
 	height: 2000px;
 	border: 9px solid rgb(202, 158, 230);
 	padding: 10px;
@@ -18,7 +18,7 @@ body {
 #topbox {
 	border-style: solid;
 	background-color: #292c3c;
-	width: 1600px;
+	width: 95%;
 	height: 20px;
 	border: 9px solid rgb(202, 158, 230);
 	padding: 10px;
@@ -36,7 +36,7 @@ body {
 	padding: 10px;
 	margin: 10px;
 	text-align:left;
-	font-size: 10px;
+	font-size: 15px;
 }
 
 a {
