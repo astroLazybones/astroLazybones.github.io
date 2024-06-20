@@ -3,6 +3,7 @@ body {
 	font-family: 'Courier New', monospace;
 	color: #FFFFFF;
 }
+
 #somebox {
 	border-style: solid;
 	background-color: #292c3c;
@@ -13,6 +14,7 @@ body {
 	margin: 10px;
 	text-align:left;
 }
+
 #topbox {
 	border-style: solid;
 	background-color: #292c3c;
@@ -25,6 +27,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
+
 #xtrabox {
 	background-color: #303446;
 	width: 300px;
@@ -34,11 +37,16 @@ body {
 	margin: 10px;
 	text-align:left;
 	font-size: 10px;
-	color: #a6d189 !important;
 }
+
+a {
+	color: #a6d189;
+}
+
 #OSstuff {
 	font-size: 30px;
 }
+
 #listthing {
 	font-size: 20px;
 }
