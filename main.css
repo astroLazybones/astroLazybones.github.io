@@ -34,7 +34,7 @@ body {
 	margin: 10px;
 	text-align:left;
 	font-size: 10px;
-	color: #a6d189;
+	color: #a6d189 !important;
 }
 #OSstuff {
 	font-size: 30px;
