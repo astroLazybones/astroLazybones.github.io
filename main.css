@@ -34,6 +34,7 @@ body {
 #topbox li {
 	display: inline-block;
 	color: cyan;
+	vertical-align: top;
 }
 
 #xtrabox {
