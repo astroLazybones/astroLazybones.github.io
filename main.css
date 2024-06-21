@@ -29,10 +29,10 @@ body {
 
 #topbox ul {
 	list-style: none;
-	display: inline-block;
 }
 
 #topbox li {
+	display: inline-block;
 	color: cyan;
 }
 
