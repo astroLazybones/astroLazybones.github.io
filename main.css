@@ -26,6 +26,7 @@ body {
 	text-align:left;
 	margin-left: auto;
 	margin-right: auto;
+	float:left;
 }
 
 #xtrabox {
