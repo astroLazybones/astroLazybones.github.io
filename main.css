@@ -23,11 +23,11 @@ body {
 	border: 9px solid rgb(202, 158, 230);
 	padding: 10px;
 	margin: 10px;
-	text-align:left;
+	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
-	float:left;
 	list-style-type: none;
+	display: inline-bloc
 }
 
 #xtrabox {
