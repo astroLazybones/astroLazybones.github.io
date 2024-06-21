@@ -26,11 +26,15 @@ body {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	color: cyan;
 }
+
 #topbox ul {
 	list-style: none;
 	display: inline-block;
+}
+
+#topbox li {
+	color: cyan;
 }
 
 #xtrabox {
