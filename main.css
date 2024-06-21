@@ -23,10 +23,13 @@ body {
 	border: 9px solid rgb(202, 158, 230);
 	padding: 10px;
 	margin: 10px;
-	text-align: left;
+	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	list-style-type: none;
+	color: cyan;
+}
+#topbox ul {
+	list-style: none;
 	display: inline-block;
 }
 
