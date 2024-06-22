@@ -25,6 +25,7 @@ body {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+	color: cyan;
 }
 
 #topbox ul {
@@ -35,7 +36,6 @@ body {
 
 #topbox li {
 	display: inline-block;
-	color: cyan;
 	vertical-align: top;
 }
 
@@ -48,11 +48,13 @@ body {
 	margin: 10px;
 	text-align: left;
 	font-size: 15px;
-}
-
-a {
 	color: #a6d189;
 }
+
+a:hover{
+	font-style: italic;
+}
+
 
 #OSstuff {
 	font-size: 30px;
