@@ -25,7 +25,6 @@ body {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	color: cyan;
 }
 
 #topbox ul {
@@ -37,6 +36,10 @@ body {
 #topbox li {
 	display: inline-block;
 	vertical-align: top;
+}
+
+#topbox a {
+	color: cyan;
 }
 
 #xtrabox {
