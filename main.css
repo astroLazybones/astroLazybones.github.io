@@ -8,7 +8,7 @@ body {
 	border-style: solid;
 	background-color: #292c3c;
 	width: 85%;
-	height: fit-content;
+	height: auto;
 	border: 9px solid rgb(202, 158, 230);
 	padding: 10px;
 	margin: 10px;
