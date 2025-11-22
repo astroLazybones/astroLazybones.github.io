@@ -15,6 +15,15 @@ body {
 	text-align:left;
 }
 
+#widget {
+  display: flex;
+  gap: 20px;
+  margin: 20px;
+  padding-right: 1.5em;
+  width: fit-content;
+  border: #dcd7ba 2px solid;
+}
+
 #topbox {
 	border-style: solid;
 	background-color: #292c3c;
