@@ -1,4 +1,4 @@
-let user = "astrolazybones"; //put your username here
+let user = "astrolazybones"; //put your username here (please work)
 let url =
   "https://lastfm-last-played.biancarosa.com.br/" + user + "/latest-song";
 
